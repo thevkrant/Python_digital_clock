@@ -14,6 +14,7 @@ Execute
 > python digitalclock.py
 
 ### Screenshot showing the sample use of the script
+You can change the theme by the clicking on `Theme` in left corner.
 <p align="center">
   <a href="output 1.png"><img src="https://user-images.githubusercontent.com/85709371/151805608-009c907f-8f07-47a2-97c4-4042883de24b.png" alt="output1"></a>
 </p>
