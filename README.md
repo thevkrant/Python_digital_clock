@@ -5,8 +5,6 @@
 # Digital Clock using Python and Tkinter
 This script create a `Digital Clock` as per the system's current time.
 
-![AlarmClockTurningOffAlarmGIF](https://user-images.githubusercontent.com/85709371/153840113-be9f6d27-d842-4084-86a2-2e9edcbcc5e6.gif)
-
 ### Prerequisites
 `Python 3`
 
