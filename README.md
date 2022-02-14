@@ -1,7 +1,15 @@
+<!--Please do not remove this part-->
+![Star Badge](https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99)
+![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
+
 # Digital Clock using Python and Tkinter
 This script create a `Digital Clock` as per the system's current time.
+
+![AlarmClockTurningOffAlarmGIF](https://user-images.githubusercontent.com/85709371/153840113-be9f6d27-d842-4084-86a2-2e9edcbcc5e6.gif)
+
 ### Prerequisites
 `Python 3`
+
 ## Library Used
 - tkinter
 - time
