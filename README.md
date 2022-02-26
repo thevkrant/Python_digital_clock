@@ -2,6 +2,10 @@
 ![Star Badge](https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99)
 ![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
 
+<div align="center">
+  <img height="60" src="https://user-images.githubusercontent.com/85709371/153715486-5da59ace-7f32-4f79-a365-318102feed51.png">
+</div>
+
 # Digital Clock using Python and Tkinter
 This script create a `Digital Clock` as per the system's current time.
 
